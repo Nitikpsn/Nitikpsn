@@ -151,14 +151,6 @@ me.say_hi()
 </p>
 
 ---
-
-<!-- ================= SNAKE ANIMATION ================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 <!-- ================= QUOTE ================= -->
 <div align="center">
   
