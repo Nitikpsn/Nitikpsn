@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitikpsn/Nitikpsn/main/banner.png" alt="Nitik Banner" />
+  <img src="https://raw.githubusercontent.com/Nitikpsn/Nitikpsn/main/thumnail.png" alt="Nitik Banner" />
 </p>
 
 <h1 align="center">Hi, I’m Nitik 👋</h1>
