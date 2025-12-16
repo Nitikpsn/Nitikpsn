@@ -1,20 +1,18 @@
-<!-- ================= HEADER WITH ANIMATED TYPING ================= -->
+<!-- ================= HEADER WITH BANNER IMAGE ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Nitik%20👋&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Nitikpsn/Nitikpsn/main/thumbnail.png" alt="Nitik Banner" width="100%"/>
 </div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Python-focused+Developer+%F0%9F%90%8D;Building+Real-World+Projects;Computer+Vision+%7C+Automation+%7C+AI)](https://git.io/typing-svg)
-  
-  <img src="https://komarev.com/ghpvc/?username=Nitikpsn&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nitikpsn&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </div>
 
 ---
 
 <!-- ================= ANIMATED ABOUT ME ================= -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7FF&vCenter=true&multiline=true&width=800&height=80&lines=Python-focused+Developer+%F0%9F%90%8D+%7C+Building+Real-World+Projects;Computer+Vision+%7C+Automation+%7C+AI+Enthusiast)](https://git.io/typing-svg)
 
 ```python
 class Nitik:
@@ -125,8 +123,7 @@ me.say_hi()
 <!-- ================= CONNECT SECTION ================= -->
 ## 🤝 Let's Connect
 
-<div align="center">
-  
+<p align="left">
   <a href="https://x.com/nitikpaswan">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
@@ -136,8 +133,22 @@ me.say_hi()
   <a href="https://github.com/Nitikpsn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
-</div>
+</p>
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+</p>
 
 ---
 
