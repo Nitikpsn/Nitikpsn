@@ -82,25 +82,6 @@ me.say_hi()
 
 ---
 
-<!-- ================= FEATURED PROJECT ================= -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Featured Project
-
-<div align="center">
-  
-  ### 🎯 Gesture Controlled Particle System
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-  
-  > **A real-time interactive 3D particle system controlled using hand gestures**
-  
-  🌟 Features: Real-time hand tracking | Smooth 3D interactions | Responsive visual effects
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nitikpsn&repo=Gesture-controlled-Particle-System&theme=react&border_color=61dafb&border_radius=10)](https://github.com/Nitikpsn/Gesture-controlled-Particle-System)
-  
-</div>
-
----
-
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Analytics
 
