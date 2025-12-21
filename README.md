@@ -136,10 +136,11 @@ me.say_hi()
 <div align="center">
   
   ### 💭 Philosophy
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Learn%20deeply.%20Build%20honestly.%20Improve%20daily.&author=Nitik" />
-  
-</div>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Asifdotexe&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ---
 
@@ -148,5 +149,4 @@ me.say_hi()
   ### ⭐ Show some love by starring repositories you find interesting!
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
 </div>
