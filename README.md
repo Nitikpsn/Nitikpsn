@@ -82,25 +82,6 @@ me.say_hi()
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nitikpsn&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=issues" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitikpsn&theme=react&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitikpsn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitikpsn&custom_title=Contribution%20Graph&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitikpsn&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
 <!-- ================= CONNECT SECTION ================= -->
 ## 🤝 Let's Connect
 
