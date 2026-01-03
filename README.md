@@ -77,8 +77,6 @@ me.say_hi()
 [![](https://visitcount.itsvg.in/api?id=Asifdotexe&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ---
-
-<div align="center">
   
   ### ⭐ Show some love by starring repositories you find interesting!
   
