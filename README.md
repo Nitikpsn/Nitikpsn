@@ -62,9 +62,6 @@ me.say_hi()
   <a href="https://github.com/Nitikpsn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-
 ---
 <!-- ================= QUOTE ================= -->
 <div align="center">
@@ -74,11 +71,7 @@ me.say_hi()
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asifdotexe&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Asifdotexe&icon=5&color=3)](https://visitcount.itsvg.in
 
----
-  
-  ### ⭐ Show some love by starring repositories you find interesting!
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
