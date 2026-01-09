@@ -7,13 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Nitikpsn&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </div>
 
----
-
-<!-- ================= ANIMATED ABOUT ME ================= -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7FF&vCenter=true&multiline=true&width=800&height=80&lines=Python-focused+Developer+%F0%9F%90%8D+%7C+Building+Real-World+Projects;Computer+Vision+%7C+Automation+%7C+AI+Enthusiast)](https://git.io/typing-svg)
-
 ```python
 class Nitik:
     def __init__(self):
