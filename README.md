@@ -6,11 +6,8 @@ I'm Nitik and I'm:
 - 💻 **Learning:** Python, SQL, Flask, Data Structures & Algorithms, Git, and real-world software development.
 - 📚 **Studying:** PCM (Class 11), problem solving, mathematics, and analytical thinking.
 - 🧠 **Exploring:** Psychology, learning systems, startup building, and how technology can improve education.
-- 🎯 **Working Toward:** Becoming a strong software engineer, open-source contributor, and founder before college.
 
 > Building products for education, learning, and human potential.
-
-### Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +19,7 @@ I'm Nitik and I'm:
 
 
 ### Currently
-📚 Class 11 PCM • 💻 Learning Backend Development • 
+📚 Class 11 PCM • 💻 Learning Backend Development 
 
 ### 2026 Goals
 ▰ Build 10 Public Projects  
