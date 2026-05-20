@@ -1,5 +1,3 @@
-# Hi, I'm Nitik ~
-
 I'm Nitik and I'm:
 
 - 🚀 **Building:** MemoAtlas, EarlyMind, and projects that combine AI, education, and productivity.
@@ -16,8 +14,6 @@ I'm Nitik and I'm:
 ▰ Build 10 Public Projects  
 ▰ Master Python & Flask  
 ▰ Contribute to Open Source
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitikpsn&show_icons=true&hide_border=true)
 
 *"Learn. Build. Share. Repeat."*
 > "Small improvements every day create extraordinary results."
