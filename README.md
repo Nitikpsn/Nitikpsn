@@ -1,70 +1,35 @@
-<!-- ================= HEADER WITH BANNER IMAGE ================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nitikpsn/Nitikpsn/main/thumbnail.png" alt="Nitik Banner" width="100%"/>
-</div>
+# Hi, I'm Nitik ~
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nitikpsn&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-</div>
+I'm Nitik and I'm:
 
-```python
-class Nitik:
-    def __init__(self):
-        self.username = "Nitikpsn"
-        self.location = "India 🇮🇳"
-        self.current_focus = [
-            "Python Development",
-            "Computer Vision & Face Recognition",
-            "Real-time Gesture Control Systems",
-            "Clean Code & Performance Optimization"
-        ]
-        self.mindset = "Learn deeply. Build honestly. Improve daily."
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+- 🚀 **Building:** MemoAtlas, EarlyMind, and projects that combine AI, education, and productivity.
+- 💻 **Learning:** Python, SQL, Flask, Data Structures & Algorithms, Git, and real-world software development.
+- 📚 **Studying:** PCM (Class 11), problem solving, mathematics, and analytical thinking.
+- 🧠 **Exploring:** Psychology, learning systems, startup building, and how technology can improve education.
+- 🎯 **Working Toward:** Becoming a strong software engineer, open-source contributor, and founder before college.
 
-me = Nitik()
-me.say_hi()
-```
+> Building products for education, learning, and human potential.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+### Tech Stack
 
-### 🎯 What I'm Up To
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 Building **interactive AI systems** with Python
-- 🌱 Deep diving into **PyTorch** and **OpenCV**
-- 💡 Creating projects that **solve real problems**
-- 🎨 Exploring **3D visualization** and **particle systems**
-- 📚 Constantly learning and **breaking things** to understand them better
-- ⚡ Fun fact: I believe the best way to learn is to **build, break, fix, repeat**
 
-<br clear="right"/>
+### Currently
+📚 Class 11 PCM • 💻 Learning Backend Development • 
 
----
+### 2026 Goals
+▰ Build 10 Public Projects  
+▰ Master Python & Flask  
+▰ Contribute to Open Source
 
-<!-- ================= CONNECT SECTION ================= -->
-## 🤝 Let's Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitikpsn&show_icons=true&hide_border=true)
 
-<p align="left">
-  <a href="https://x.com/nitikpaswan">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/B7AcTUgpgr">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nitikpsn">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
----
-<!-- ================= QUOTE ================= -->
-<div align="center">
-  
-  ### 💭 Philosophy
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=Asifdotexe&icon=5&color=3)](https://visitcount.itsvg.in
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+*"Learn. Build. Share. Repeat."*
+> "Small improvements every day create extraordinary results."
