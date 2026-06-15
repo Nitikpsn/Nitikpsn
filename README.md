@@ -1,19 +1,11 @@
 I'm Nitik and I'm:
-
-- 🚀 **Building:** MemoAtlas, EarlyMind, and projects that combine AI, education, and productivity.
-- 💻 **Learning:** Python, SQL, Flask, Data Structures & Algorithms, Git, and real-world software development.
-- 📚 **Studying:** PCM (Class 11), problem solving, mathematics, and analytical thinking.
-- 🧠 **Exploring:** Psychology, learning systems, startup building, and how technology can improve education.
+-  **Exploring:** Psychology, learning systems, startup building, and how technology can improve education.
 
 > Building products for education, learning, and human potential.
 
 ### Currently
-📚 Class 11 PCM • 💻 Learning Backend Development 
+ Class 11 PCM •  Learning Backend Development 
 
-### 2026 Goals
-▰ Build 10 Public Projects  
-▰ Master Python & Flask  
-▰ Contribute to Open Source
 
 *"Learn. Build. Share. Repeat."*
 > "Small improvements every day create extraordinary results."
