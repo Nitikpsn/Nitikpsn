@@ -1,19 +1,18 @@
-I'm Nitik and I'm:
--  **Exploring:** Psychology, learning systems, startup building, and how technology can improve education.
+### Nitikpsn / README.md
+
+I'm **Nitik** and I'm:
+* **Exploring:** Psychology, learning systems, startup building, and how technology can improve education.
 
 > Building products for education, learning, and human potential.
 
+---
+
 ### Currently
- Class 11 PCM •  Learning Backend Development 
+* Class 11 PCM • Learning Backend Development
+* *"Learn. Build. Share. Repeat."*
+* *"Small improvements every day create extraordinary results."*
 
+---
 
-*"Learn. Build. Share. Repeat."*
-> "Small improvements every day create extraordinary results."
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tech Stack
+`Linux` `HTML` `CSS` `Python` `Flask` `SQL` `Git`
