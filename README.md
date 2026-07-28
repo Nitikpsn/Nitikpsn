@@ -18,6 +18,8 @@ Over the past year, I've explored Python development, backend engineering, AI AP
 , SQLite
 , vercel
 , Linux
+, Opencode
+, copilot
 - Currently exploring : AI , LLM's , Opensource , Automation
 , system Design
 , Cloud Deployment
