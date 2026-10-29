@@ -5,27 +5,4 @@ My goal isn't just to write code. I want to build products that improve educatio
 
 Over the past year, I've explored Python development, backend engineering, AI APIs, databases, and full-stack web applications. Every project teaches me something new, and I'm constantly raising the bar for what I can build.
 
-####  Technologies I Use ;
-- Languages : Python,
-, TypeScript
-, SQL
-, HTML
-, CSS
-- Frameworks & Tools :
-, Flask
-, FastAPI
-, MySQL
-, SQLite
-, vercel
-, Linux
-, Opencode
-, copilot
-- Currently exploring : AI , LLM's , Opensource , Automation
-, system Design
-, Cloud Deployment
-
-#### Let's Build Together ;
-
-I'm always interested in collaborating on open source, hackathons, AI products, education technology, developer tools, and startup ideas.
-If you're building something meaningful, I'd love to connect.
 
