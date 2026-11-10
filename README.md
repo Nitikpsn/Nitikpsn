@@ -6,3 +6,4 @@ My goal isn't just to write code. I want to build products that improve educatio
 Over the past year, I've explored Python development, backend engineering, AI APIs, databases, and full-stack web applications. Every project teaches me something new, and I'm constantly raising the bar for what I can build.
 
 
+<img src="https://nitikpsn.pythonanywhere.com/api/progress?of=year" alt="year progress">
